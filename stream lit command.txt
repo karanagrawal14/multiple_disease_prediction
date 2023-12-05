@@ -1,0 +1,1 @@
+stream lit run 'C:/Python Files/Multiple_Disease_prediction_system/multiple_disease_pred.py'
